@@ -47,7 +47,7 @@
     <property name="project.structure.side.proportion" value="0.0" />
     <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
   </component>
-  <component name="RunManager" selected="Application.MainApp (1)">
+  <component name="RunManager" selected="Application.MainApp (2)">
     <configuration name="MainApp (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="lesson5.MainApp" />
       <module name="Algorithms" />
@@ -61,12 +61,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MainApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="lesson3.MainApp" />
+    <configuration name="MainApp (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lesson6.MainApp" />
       <module name="Algorithms" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="lesson3.*" />
+          <option name="PATTERN" value="lesson6.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -115,11 +115,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.MainApp (2)" />
         <item itemvalue="Application.MainApp (1)" />
         <item itemvalue="Application.StackApp" />
         <item itemvalue="Application.QueueApp" />
         <item itemvalue="Application.NodeIteratorApp" />
-        <item itemvalue="Application.MainApp" />
       </list>
     </recent_temporary>
   </component>
@@ -167,14 +167,30 @@
       <option name="project" value="LOCAL" />
       <updated>1586370278148</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Lesson 5 completed (power and knapsack)">
+      <created>1586942004687</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1586942004687</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Lesson 6 completed (Binary tree and random fill in)">
+      <created>1587311495013</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1587311495013</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Lesson 2 completed (with snail)" />
     <MESSAGE value="Lesson 2 completed (with snail) and 1 removed line" />
     <MESSAGE value="Lesson 3 completed" />
-    <option name="LAST_COMMIT_MESSAGE" value="Lesson 3 completed" />
+    <MESSAGE value="Lesson 5 completed (power and knapsack)" />
+    <MESSAGE value="Lesson 6 completed (Binary tree and random fill in)" />
+    <option name="LAST_COMMIT_MESSAGE" value="Lesson 6 completed (Binary tree and random fill in)" />
   </component>
   <component name="WindowStateProjectService">
     <state x="361" y="72" key="#Project_Structure" timestamp="1585835219217">
@@ -185,53 +201,67 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="798" y="118" key="#com.intellij.ide.util.MemberChooser/0.0.1536.824@0.0.1536.824" timestamp="1586935347162" />
-    <state x="424" y="8" key="CommitChangelistDialog2" timestamp="1586370277319">
+    <state x="424" y="8" key="CommitChangelistDialog2" timestamp="1587311494245">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="424" y="8" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1586370277319" />
+    <state x="424" y="8" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1587311494245" />
     <state x="549" y="155" key="FileChooserDialogImpl" timestamp="1586103439968">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="549" y="155" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1586103439968" />
-    <state width="1493" height="173" key="GridCell.Tab.0.bottom" timestamp="1586941829017">
+    <state width="1493" height="427" key="GridCell.Tab.0.bottom" timestamp="1587311333961">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="173" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1586941829017" />
-    <state width="1493" height="173" key="GridCell.Tab.0.center" timestamp="1586941829017">
+    <state width="1493" height="427" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1587311333961" />
+    <state width="1493" height="427" key="GridCell.Tab.0.center" timestamp="1587311333961">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="173" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1586941829017" />
-    <state width="1493" height="173" key="GridCell.Tab.0.left" timestamp="1586941829016">
+    <state width="1493" height="427" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1587311333961" />
+    <state width="1493" height="427" key="GridCell.Tab.0.left" timestamp="1587311333961">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="173" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1586941829016" />
-    <state width="1493" height="173" key="GridCell.Tab.0.right" timestamp="1586941829017">
+    <state width="1493" height="427" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1587311333961" />
+    <state width="1493" height="427" key="GridCell.Tab.0.right" timestamp="1587311333961">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="173" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1586941829017" />
-    <state width="1493" height="261" key="GridCell.Tab.1.bottom" timestamp="1586896403744">
+    <state width="1493" height="427" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1587311333961" />
+    <state width="1493" height="157" key="GridCell.Tab.1.bottom" timestamp="1587301290636">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="261" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1586896403744" />
-    <state width="1493" height="261" key="GridCell.Tab.1.center" timestamp="1586896403744">
+    <state width="1493" height="157" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1587301290636" />
+    <state width="1493" height="157" key="GridCell.Tab.1.center" timestamp="1587301290636">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="261" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1586896403744" />
-    <state width="1493" height="261" key="GridCell.Tab.1.left" timestamp="1586896403744">
+    <state width="1493" height="157" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1587301290636" />
+    <state width="1493" height="157" key="GridCell.Tab.1.left" timestamp="1587301290636">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="261" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1586896403744" />
-    <state width="1493" height="261" key="GridCell.Tab.1.right" timestamp="1586896403744">
+    <state width="1493" height="157" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1587301290636" />
+    <state width="1493" height="157" key="GridCell.Tab.1.right" timestamp="1587301290636">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="261" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1586896403744" />
+    <state width="1493" height="157" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1587301290636" />
     <state x="277" y="56" key="SettingsEditor" timestamp="1586941670950">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="277" y="56" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1586941670950" />
-    <state x="465" y="238" key="com.intellij.ide.util.TipDialog" timestamp="1586933748519">
+    <state x="465" y="238" key="com.intellij.ide.util.TipDialog" timestamp="1587220766246">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="465" y="238" key="com.intellij.ide.util.TipDialog/0.0.1536.824@0.0.1536.824" timestamp="1586933748519" />
+    <state x="465" y="238" key="com.intellij.ide.util.TipDialog/0.0.1536.824@0.0.1536.824" timestamp="1587220766246" />
+    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup" timestamp="1587293748998">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup/0.0.1536.824@0.0.1536.824" timestamp="1587293748998" />
+  </component>
+  <component name="XDebuggerManager">
+    <watches-manager>
+      <configuration name="Application">
+        <watch expression="temp.right" language="JAVA" />
+        <watch expression="node.right" language="JAVA" />
+        <watch expression="node.right" language="JAVA" />
+        <watch expression="node.right" language="JAVA" />
+      </configuration>
+    </watches-manager>
   </component>
 </project>
