@@ -2,9 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8fa7d9df-4210-4d42-967e-f273bdac5ed0" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/lesson7/BreadthFirstPath.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lesson7/Graph.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lesson7/MainApp.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -184,7 +181,14 @@
       <option name="project" value="LOCAL" />
       <updated>1587311495013</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="Lesson 7 completed (Graph with BreadthFirstPath)">
+      <created>1587497191369</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1587497191370</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -193,7 +197,8 @@
     <MESSAGE value="Lesson 3 completed" />
     <MESSAGE value="Lesson 5 completed (power and knapsack)" />
     <MESSAGE value="Lesson 6 completed (Binary tree and random fill in)" />
-    <option name="LAST_COMMIT_MESSAGE" value="Lesson 6 completed (Binary tree and random fill in)" />
+    <MESSAGE value="Lesson 7 completed (Graph with BreadthFirstPath)" />
+    <option name="LAST_COMMIT_MESSAGE" value="Lesson 7 completed (Graph with BreadthFirstPath)" />
   </component>
   <component name="WindowStateProjectService">
     <state x="361" y="72" key="#Project_Structure" timestamp="1585835219217">
@@ -204,10 +209,10 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="798" y="118" key="#com.intellij.ide.util.MemberChooser/0.0.1536.824@0.0.1536.824" timestamp="1587492872453" />
-    <state x="424" y="8" key="CommitChangelistDialog2" timestamp="1587311494245">
+    <state x="424" y="8" key="CommitChangelistDialog2" timestamp="1587497190444">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="424" y="8" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1587311494245" />
+    <state x="424" y="8" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1587497190444" />
     <state x="549" y="155" key="FileChooserDialogImpl" timestamp="1586103439968">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
